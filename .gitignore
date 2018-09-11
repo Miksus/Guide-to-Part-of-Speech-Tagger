@@ -22,4 +22,4 @@ env.bak/
 venv.bak/
 
 # Data
-.conllx
+ftb3_subsample.conllx
